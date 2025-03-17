@@ -1,2 +1,2 @@
 # grain-bank-mvn
-Project by student with ID 160323
+![example workflow](https://github.com/<user>/<repo>/actions/workflows/<file>/badge.svg)
